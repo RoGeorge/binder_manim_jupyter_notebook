@@ -6,7 +6,6 @@ dependencies:
   - python
   - ipython
   - opencv
-  - manimgl
   - pip
   - pip:
     - manim

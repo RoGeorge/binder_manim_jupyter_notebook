@@ -7,4 +7,4 @@ dependencies:
   - pip
   - pip:
     - jupyter-manim
-    
+    - opencv-python

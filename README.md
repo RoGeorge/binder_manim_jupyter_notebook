@@ -7,3 +7,5 @@ A Math Animation inside a Jupyter Notebook with Binder for online interactive ac
 4. Save the link address to share it later
 
 5. Navigate to the saved Binder link address and use the interactive Jupyter Notebook
+        for this repository, the generated Binder link is
+        https://mybinder.org/v2/gh/RoGeorge/binder_manim_jupyter_notebook/HEAD

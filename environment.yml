@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - ffmpeg
-  - python3-opencv
   - ipython
   - pip
   - pip:

@@ -5,6 +5,8 @@ dependencies:
   - ffmpeg
   - python
   - ipython
+  - opencv
+  - manimgl
   - pip
   - pip:
     - manim

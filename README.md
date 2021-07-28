@@ -9,4 +9,4 @@ A Math Animation inside a Jupyter Notebook with Binder for online interactive ac
 5. Navigate to the saved Binder link address and use the cloud interactive Jupyter Notebook  
   
 For this repository, the generated Binder link is:  
-https://mybinder.org/v2/gh/RoGeorge/binder_manim_jupyter_notebook/HEAD
+https://mybinder.org/v2/gh/RoGeorge/binder_manim_jupyter_notebook/HEAD?filepath=nb_manim_OK_1.ipynb

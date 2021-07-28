@@ -2,10 +2,11 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - libgl1-mesa-glx
   - ffmpeg
+  - libsm6
+  - libxext6
   - ipython
   - pip
   - pip:
     - jupyter-manim
-    
+   

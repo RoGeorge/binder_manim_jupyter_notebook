@@ -3,10 +3,10 @@ channels:
   - conda-forge
 dependencies:
   - ffmpeg
-  - libsm6
-  - libxext6
+  - python3-opencv
   - ipython
   - pip
   - pip:
     - jupyter-manim
-   
+    - opencv-python
+    

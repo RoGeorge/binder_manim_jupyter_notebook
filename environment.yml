@@ -2,6 +2,7 @@ name: j_manim
 channels:
   - defaults
 dependencies:
+  - ffmpeg
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=4.5=1_gnu
   - argon2-cffi=20.1.0=py39h27cfd23_1

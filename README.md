@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RoGeorge/binder_manim_jupyter_notebook/HEAD?filepath=nb_manim_OK_1.ipynb)
 
 # binder_manim_jupyter_notebook
-A Math Animation inside a Jupyter Notebook with Binder for online interactive access
+A math animation inside a Jupyter Notebook with manim and mybinder.org for online interactive access.
   
 1. Update the ".ipynb" Jupyter Notebook file
 2. Update the "environment.yml" file if required

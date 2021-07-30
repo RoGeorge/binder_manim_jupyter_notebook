@@ -2,10 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - ffmpeg
-  - python
-  - ipython
-  - opencv
-  - pip
+  - notebook
+  - pycairo
   - pip:
     - jupyter-manim

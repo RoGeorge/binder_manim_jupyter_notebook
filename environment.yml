@@ -1,6 +1,8 @@
 name: j_manim
 dependencies:
+  - avconv
   - notebook
   - pycairo
+  - pip
   - pip:
     - jupyter-manim

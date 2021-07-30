@@ -2,7 +2,8 @@ name: j_manim
 channels:
   - defaults
 dependencies:
-  - libglu1-mesa-dev
+  - PyOpenGL
+  - PyOpenGL_accelerate
   - ffmpeg
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=4.5=1_gnu

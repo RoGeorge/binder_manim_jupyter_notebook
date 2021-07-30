@@ -2,8 +2,6 @@ name: j_manim
 channels:
   - defaults
 dependencies:
-  - PyOpenGL
-  - PyOpenGL_accelerate
   - ffmpeg
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=4.5=1_gnu
@@ -91,6 +89,8 @@ dependencies:
   - zipp=3.5.0=pyhd3eb1b0_0
   - zlib=1.2.11=h7b6447c_3
   - pip:
+    - PyOpenGL
+    - PyOpenGL_accelerate
     - argparse==1.4.0
     - colour==0.1.5
     - jupyter-manim==1.3

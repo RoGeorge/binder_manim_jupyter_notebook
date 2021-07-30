@@ -1,7 +1,6 @@
 name: example-environment
-channels:
-  - conda-forge
 dependencies:
+  - ffmpeg
   - notebook
   - pycairo
   - pip:

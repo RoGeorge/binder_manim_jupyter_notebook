@@ -1,6 +1,6 @@
 name: j_manim
 dependencies:
-  - avconv
+  - ffmpeg
   - notebook
   - pycairo
   - pip
